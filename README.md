@@ -5,4 +5,6 @@ Created a database called “Sales” AND a new table named “Orders” in the 
 # Assignment 3
 Created a table named Managers and performed steps for DML Commands
 # Assignment 4 
-Created 2 tables Country and Persons. Performed various actions to query the data
+Created 2 tables Country and Persons. Performed various steps to query the data
+# Assignment 5
+Created 2 tables Country and Persons. Performed various steps for Sorting and Grouping data.
