@@ -8,3 +8,7 @@ Created a table named Managers and performed steps for DML Commands
 Created 2 tables Country and Persons. Performed various steps to query the data
 # Assignment 5
 Created 2 tables Country and Persons. Performed various steps for Sorting and Grouping data.
+# Assignment 6
+Created 2 tables Country and Persons. Performed various steps using Joins and Union.
+# Assignment 7 
+Created 2 tables Country and Persons. Performed various steps using Functions.
