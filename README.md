@@ -12,3 +12,5 @@ Created 2 tables Country and Persons. Performed various steps for Sorting and Gr
 Created 2 tables Country and Persons. Performed various steps using Joins and Union.
 # Assignment 7 
 Created 2 tables Country and Persons. Performed various steps using Functions.
+# Assignment 8
+Performed various steps using Subqueries and Views
