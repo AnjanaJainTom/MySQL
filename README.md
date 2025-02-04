@@ -16,3 +16,5 @@ Created 2 tables Country and Persons. Performed various steps using Functions.
 Performed various steps using Subqueries and Views
 # Assignment 9
 Performed various steps using Stored Procedures
+# Assignment 10
+Performed various steps using Triggers
