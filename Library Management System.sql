@@ -2,7 +2,7 @@
 CREATE DATABASE IF NOT EXISTS Library;
 USE Library;
 
--- CREATING A TABLES
+-- CREATING TABLES
 # TABLE 1
 CREATE TABLE Branch (
 Branch_no INT auto_increment PRIMARY KEY,
