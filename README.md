@@ -18,3 +18,6 @@ Performed various steps using Subqueries and Views
 Performed various steps using Stored Procedures
 # Assignment 10
 Performed various steps using Triggers
+# Module 3 Library Management System
+Created a project based on Library Management System. 
+It keeps track of all information about books in the library, their cost, status and total number of books available in the library. 
